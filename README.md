@@ -1,5 +1,11 @@
-### Hi there 👋
+### Howdy Y'all 👋
 
+
+Just getting started here...
+
+Career in IT, some time in the military, ready to get to work!
+
+Currently in school for Computer Science
 <!--
 **nbprocc/nbprocc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
